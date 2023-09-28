@@ -1,6 +1,6 @@
 .myimg{
-	width: 700px;
-	height: 900px;
+	width: 580px;
+	height: 680px;
 	object-fit: cover;
 	border-radius: 100%;
 	background-position: center;
@@ -21,7 +21,7 @@
 	margin-right: auto;
 }
 h1{
-	
+
 	font-size: 140px;
 	text-align: center;
 	color: #fadc2c;
