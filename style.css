@@ -34,6 +34,7 @@ body{
 span{
 	font-size: 30px;
 	color: #fadc2c;
+	margin: 25px;
 
 }
 p{
@@ -44,5 +45,8 @@ p{
 h2{
 	font-size: 50px;
 	color: #fadc2c;
+	text-align: center;
+}
+.center{
 	text-align: center;
 }
