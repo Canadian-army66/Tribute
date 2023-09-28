@@ -1,6 +1,6 @@
 .myimg{
-	width: 500px;
-	height: 600px;
+	width: 700px;
+	height: 900px;
 	object-fit: cover;
 	border-radius: 100%;
 	background-position: center;
@@ -10,7 +10,7 @@
 	border: 6px solid #555;
 	border-color: #fadc2c;
 }
-}
+
 .myimg2{
 	width: 300px;
 	height: 300px;
@@ -21,20 +21,28 @@
 	margin-right: auto;
 }
 h1{
-	font-family: gerogia;
+	
 	font-size: 140px;
 	text-align: center;
 	color: #fadc2c;
 }
-.text2{
-	font-family: georgia;
+
+body{
+	background-color: #c91b12;
+}
+
+span{
+	font-size: 30px;
+	color: #fadc2c;
+
+}
+p{
+	font-size: 30px;
 	color: #fadc2c;
 	text-align: center;
 }
-.text3{
-	font-family: georgia;
+h2{
+	font-size: 50px;
 	color: #fadc2c;
-}
-body{
-	background-color: #c91b12;
+	text-align: center;
 }
