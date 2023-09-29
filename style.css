@@ -48,5 +48,10 @@ h2{
 	text-align: center;
 }
 hr{
-	
+	border-top: 16px solid #fadc2c;
+	border-radius: 16px;
+}
+li{
+	font-size: 30px;
+	color: #fadc2c;
 }
